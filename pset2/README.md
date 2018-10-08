@@ -86,9 +86,9 @@ Insert about me
 
 ---
 ### Jesmine Dejesus
-<img src='' width='150'>
+<img src='images/jesmine.jpg' width='150'>
 
-Insert about me
+I know of no more encouraging fact than the unquestionable ability of man to elevate his life by concious endeavor.
 
 ---
 ### Stephanie Durandisse
